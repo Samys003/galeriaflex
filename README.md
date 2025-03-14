@@ -1,6 +1,6 @@
 # galeriaflex
 
-![](./README.md)
+![](./preview.png)
 
 ## Projeto Galeria Flex
 galeria flex
